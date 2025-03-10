@@ -43,7 +43,7 @@ I completed Google Summer Of Code 2018 (GSoC) with AIMACode under the supervison
  
 
 <p align="center">
- <img width="1000" src="asset/github-snake.svg" alt="snake"/>
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 
